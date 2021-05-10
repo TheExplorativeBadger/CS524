@@ -1,7 +1,7 @@
 # CS524 - Introduction to Optimization
 
 ## Description
-CS 524 is a computer science course at the University of Wisconsin that explores method of programmatic optimiation for various types of optimization problems. Topics include:
+CS 524 is a computer science course at the University of Wisconsin that explores methods of programmatic optimization for various types of optimization problems. Topics include:
 - Linear Optimizaton
 - Dual Optimization
 - Regression
