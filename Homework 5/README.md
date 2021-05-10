@@ -1,4 +1,4 @@
-# Homework 5
+# Homework 5 - Least Squares
 
 ## Description
 

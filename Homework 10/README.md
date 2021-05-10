@@ -1,4 +1,4 @@
-# Homework 10
+# Homework 10 - Nonlinear Programming
 
 ## Description
 

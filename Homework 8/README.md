@@ -1,4 +1,4 @@
-# Homework 8
+# Homework 8 - Lagrange Duality
 
 ## Description
 

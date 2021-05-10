@@ -1,4 +1,4 @@
-# Homework 3 - Minimax & Network Flow
+# Final Project - Portfolio Optimization
 
 ## Description
 
