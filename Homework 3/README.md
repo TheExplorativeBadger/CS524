@@ -1,7 +1,1 @@
 # Homework 3 - Minimax & Network Flow
-
-## Description
-
-## Contents
-
-## Comments
